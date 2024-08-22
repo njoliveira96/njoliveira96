@@ -1,6 +1,11 @@
-### 👋 Nadson de Jesus Oliveira
+### Hi👋
 #### Formado em análise e desenvolvimento de sistemas, em 2018, no momento, estou tentando recuperar algumas coisas e tentando aprender coisas novas
 
+- 🔭 I’m currently working on área de suporte técnico
+- 🌱 I’m currently learning sobre git e java
+- 👯 I’m looking to collaborate on projetos open source
+- 🤔 I’m looking for help with dicas para melhorar a memorização porque infelizmente não tenho uma memória boa
+- 💬 Ask me about qualquer coisa, só falo a verdade
 <!--
 **njoliveira96/njoliveira96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
